@@ -44,13 +44,6 @@ Ce projet met en pratique :
 
 ---
 
-## Installation du projet front-end
-
-1. **Clonez ce dépôt :**
-   ```bash
-   git clone https://github.com/fadichou/P8_KASA_REACT.git
-   ```
-
 ## Installez les dépendances
 
 cd P8_KASA_REACT
