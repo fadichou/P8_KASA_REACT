@@ -1,0 +1,23 @@
+.footer {
+  background-color: black;
+  text-align: center;
+  padding: 30px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.footer-logo {
+  width: 122px;
+  height: 40px; /* taille image */
+}
+
+.footer-text {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+  color: white;
+  margin: 0;
+}

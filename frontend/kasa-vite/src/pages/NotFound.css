@@ -1,0 +1,38 @@
+/* src/pages/NotFound.css */
+
+.notfound {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding-top: 40px;
+  padding-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* gap: 20px; */
+  color: #ff6060;
+  background-color: white;
+  /* flex: 1; */
+}
+
+.notfound-code {
+  font-size: 288px;
+  font-weight: 700;
+  color: #ff6060;
+  margin: 0;
+}
+
+.notfound-message {
+  font-size: 36px;
+  color: #ff6060;
+  margin: 40px 0;
+}
+
+.notfound-link {
+  font-size: 18px;
+  color: black;
+  text-decoration: underline;
+}
+
+.notfound-link:hover {
+  color: black;
+}
